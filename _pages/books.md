@@ -7,5 +7,5 @@ nav_order: 4
 collection: books
 ---
 
-
+> A simple way to track my reading.
 
