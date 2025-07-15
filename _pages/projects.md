@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A glimpse into the lab and life — snapshots of science, discovery, and the moments in between.
 nav: true
 nav_order: 1
 display_categories: [research, fun]
